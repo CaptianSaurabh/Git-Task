@@ -1,12 +1,12 @@
 Based on what you have learnt in the class, do the following steps: 
-a. Create a new folder 
-b. Put the following files in the folder
+1. a. Create a new folder 
+2. b. Put the following files in the folder
                           Code.txt 
                           Log.txt 
                           Output.txt 
-c. Stage the Code.txt and Output.txt files 
-d. Commit them 
-e. And finally push them to GitHub
+3. c. Stage the Code.txt and Output.txt files 
+4. d. Commit them 
+5. e. And finally push them to GitHub
 
 ## 1.Step a: Create a new folder
 To create a new folder, you can use the command line interface (CLI) or your operating system's file explorer. Let's assume you're using the CLI. Open your terminal and type the following command
