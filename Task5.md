@@ -1,5 +1,4 @@
-+
- *--++++++++++*------------------------------------*Tasks to Be Performed: 
+Tasks to Be Performed: 
 1. Create a Git Flow workflow architecture on Git 
 2. Create all the required branches 
 3. starting from e feature branch, push the branch to the master, following the architecture 
