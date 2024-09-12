@@ -10,23 +10,23 @@ Based on what you have learnt in the class, do the following steps:
 
 >>Step a: Create a new folder
 To create a new folder, you can use the command line interface (CLI) or your operating system's file explorer. Let's assume you're using the CLI. Open your terminal and type the following command
-Code
+Commond..
 mkdir myfolder
 
 >>Step b: Put the following files in the folder
 Create the following files inside the myfolder directory:
-Code
+Commond..
 cd myfolder
 touch Code.txt Log.txt Output.txt
 
 >>Step c: Stage the Code.txt and Output.txt files
 To stage the Code.txt and Output.txt files, use the following Git commands:
-Code
+Commond..
 git add Code.txt Output.txt
 
 >>Step d: Commit them
 To commit the staged files, use the following command: Before commit plese run the run the git init  command to initialize the git repository and also know status of  the repository using git status command
-Code
+Commond..
 git commit -m "Initial commit"
 
 >>Step e: Push them to GitHub
