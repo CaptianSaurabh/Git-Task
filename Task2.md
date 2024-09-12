@@ -10,6 +10,7 @@ Task: Please share the commands for the above point
 
 
 >>Task 1: Create a Git working directory with feature1.txt and feature2.txt in the master branch
+# Command
 mkdir myrepo
 cd myrepo
 git init
@@ -18,24 +19,29 @@ git add .
 git commit -m "Initial commit"
 
 >>Task 2: Create 3 branches develop, feature1, and feature2
+# Command
 git branch develop
 git branch feature1
 git branch feature2
 
 >>Task 3: In develop branch create develop.txt, do not stage or commit it
+# Command
 git checkout develop
 touch develop.txt
 
 >>Task 4: Stash this file and check out to feature1 branch
+# Command
 git stash
 git checkout feature1
 
 >>Task 5: Create new.txt file in feature1 branch, stage and commit this file
+# Command
 touch new.txt
 git add new.txt
 git commit -m "Added new.txt in feature1 branch"
 
 >>Task 6: Checkout to develop, unstash this file and commit
+# Command 
 git checkout develop
 git stash pop
 git add develop.txt
