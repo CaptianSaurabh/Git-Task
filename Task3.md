@@ -55,7 +55,7 @@ Let's switch to the Develop branch and create a new file called develop.txt:
 First, we need to create a new repository on GitHub and add the remote repository to our local Git repository. Let's assume the repository URL is https://github.com/username/repository.git. We can add the remote repository using the following command:
 ### Command 
 1. git remote add origin https://github.com/username/repository.git
-..Next, we can push all the branches to GitHub using the following command:
+### Next, we can push all the branches to GitHub using the following command:
 2. git push --all origin
 
 ## Task 5: On local delete f2 branch
