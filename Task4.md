@@ -81,10 +81,10 @@ E -- F   (private)
   G   (public2)
 
 Where:
-A: Initial commit on master branch
-B: Merge public1 branch
-C: Merge private branch
-D: Initial commit on public1 branch
-E: Initial commit on private branch
-F: Updated master.txt on private branch
-G: Initial commit on public2 branch
+A. Initial commit on master branch
+B. Merge public1 branch
+C. Merge private branch
+D. Initial commit on public1 branch
+E. Initial commit on private branch
+F. Updated master.txt on private branch
+G. Initial commit on public2 branch
